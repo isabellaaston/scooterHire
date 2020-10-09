@@ -26,4 +26,11 @@ describe("charge station", () => {
     //     chargeStation.hireScooter(scooter1)
     //     expect(() => chargeStation.hireScooter(scooter2)).toThrowError("Must return scooter before hiring a new one")
     // })
+    // test("", () => {
+    //     const chargeStation = new ChargeStation("Arnos Grove")
+    //     const scooter1 = new Scooter()
+    //     chargeStation.assignScooters(scooter1, scooter2, scooter3)
+    //     const user = new User("Isabella")
+    //     user.scooter.push(scooter1)
+    // })
 })
